@@ -114,8 +114,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/ProtonMail/WebClients.git
-        tag: proton-inbox-desktop@1.14.0
-        commit: a3b4d498eb27734c2f48ce41dfed4f8342eabc48
+        tag: proton-inbox-desktop@1.13.4
+        commit: 4ff620c210a5c795151c83d21437cb232d432716
         x-checker-data:
           type: json
           url: https://proton.me/download/mail/linux/version.json
